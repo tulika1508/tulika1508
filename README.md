@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulika Chatterjee</h1>
-<h3 align="center">I am a second year undergraduate student at IIEST Shibpur in the department of Information Technology. A passionate coder and frontend developer from India.</h3>
+<h3 align="center">I am a second year undergraduate student at IIEST Shibpur in the department of Information Technology. A passionate coder,frontend developer and machine learning enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tulika1508&label=Profile%20views&color=0e75b6&style=flat" alt="tulika1508" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tulika1508" target="blank"><img src="https://img.shields.io/twitter/follow/tulika1508?logo=twitter&style=for-the-badge" alt="tulika1508" /></a> </p>
 
-* 💬Ask me about Frontend development
+* 💬Ask me about Frontend development,Machine learning
 * 👨‍💻 All of my projects are available at https://github.com/tulika1508
 * 📫 How to reach me **talktotulikachatterjee@gmail.com**
 
