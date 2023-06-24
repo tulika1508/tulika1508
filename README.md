@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/tulika1508" target="blank"><img src="https://img.shields.io/twitter/follow/tulika1508?logo=twitter&style=for-the-badge" alt="tulika1508" /></a> </p>
 
-* 💬Ask me about Frontend development,Machine learning
+* 💬Ask me about Data Science,Machine learning and web development.
 * 👨‍💻 All of my projects are available at https://github.com/tulika1508
 * 📫 How to reach me **talktotulikachatterjee@gmail.com**
 
