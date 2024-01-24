@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulika Chatterjee</h1>
-<h3 align="center">I am a third year undergraduate student at IIEST Shibpur in the department of Information Technology. A passionate coder and full stack developer from India.</h3>
+<h3 align="center">I am a third year undergraduate student at IIEST Shibpur in the department of Information Technology. A passionate coder and frontend developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tulika1508&label=Profile%20views&color=0e75b6&style=flat" alt="tulika1508" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tulika1508](https://github.com/tulika1508)
 
-- 💬 Ask me about **Full stack web development**
+- 💬 Ask me about **Frontend web development**
 
 - 📫 How to reach me **talktotulikachatterjee@gmail.com**
 
