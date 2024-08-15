@@ -9,7 +9,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/tulika1508](https://github.com/tulika1508)
 - 📫 How to reach me [talktotulikachatterjee@gmail.com](talktotulikachatterjee@gmail.com)
 - 📝 I regularly write blogs on [https://picbytulika.blogspot.com/](https://picbytulika.blogspot.com/)
-- 📫 My Portfolio: https://tulika-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
